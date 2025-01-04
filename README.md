@@ -1,4 +1,4 @@
-Understanding the XOR Problem
+Understanding the XOR Function
 
 The XOR (exclusive OR) problem is a foundational example in machine learning, particularly neural networks, that demonstrates 
 the limitations of single-layer perceptrons and the power of multi-layer networks.
