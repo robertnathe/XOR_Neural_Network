@@ -23,4 +23,5 @@ The original input space for XOR is not linearly separable. The hidden layer eff
 
 Key Points
 
-The XOR problem highlights the limitations of single-layer perceptrons and the power of multi-layer networks. Multi-layer networks can learn complex non-linear relationships through hidden layers and non-linear activation functions. Backpropagation is a crucial algorithm for training neural networks. The hidden layer plays a vital role in transforming the input space to make the problem solvable. By understanding the XOR problem and its solution, you gain insights into the fundamental principles of neural networks and their ability to tackle complex, real-world problems.
+The XOR problem highlights the limitations of single-layer perceptrons and the power of multi-layer networks. Multi-layer networks can learn complex non-linear relationships through hidden layers and non-linear activation functions. Backpropagation is a crucial algorithm for training neural networks. The hidden layer plays 
+a vital role in transforming the input space to make the problem solvable. By understanding the XOR problem and its solution, you gain insights into the fundamental principles of neural networks and their ability to tackle complex, real-world problems.
